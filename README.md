@@ -15,7 +15,11 @@
 
 Creates a readme so you dont have to everytime.
 
-<img src="demo.jpg">
+
+[![Readme Gen in Action](demo.jpg)](https://drive.google.com/file/d/1XMQKi-CydOZ0Jfl0_FUr2h_yIOW7_Mqo/view "Readme Generator")
+
+**Click the Image above for a video demonstration.**
+
 
 ## Usage
 

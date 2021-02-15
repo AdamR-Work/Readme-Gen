@@ -1,4 +1,4 @@
-# Readme Generator
+# ToeBeans
 
 ## License
 
@@ -13,13 +13,13 @@
  
 ## Description
 
-Creates a readme so you dont have to everytime.
+Displays cats toebeans based off of user input.
 
 <img src="demo.jpg">
 
 ## Usage
 
-Inquirer prompts you questions and based off of those questions it generates a readme
+When user clicks on the different toebeans of cats it displays the color and breed of cat.
 
 ## Installation
 
@@ -33,7 +33,7 @@ JavaScript ,ES6 ,Node
 
 ### AdamR-Work
 
-https://github.com/AdamR-Work/Readme-Gen
+https://github.com/AdamR-Work/toebeans
 
 ## Contributing
 
