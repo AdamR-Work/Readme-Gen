@@ -159,7 +159,7 @@ const promptUser = () => {
             
           
     ]).then(response => {
-      fs.writeFile("README.md", generateMarkdown(response), err => {
+      fs.writeFile("./newreadme/README.md", generateMarkdown(response), err => {
         if(err) throw err
       })
     })
